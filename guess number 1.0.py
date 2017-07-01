@@ -8,4 +8,4 @@ if answer＜num:
 if answer＞num:
    print"too big"
 if answer==num:
-   print"BINGGO"
+   print"BINGO"
