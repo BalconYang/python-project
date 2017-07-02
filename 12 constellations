@@ -1,1 +1,8 @@
 #coding＝utf-8
+print"每个人都是独一无二的，此脚本仅做娱乐之用。"
+name＝input()
+print str(name)+"，小方陪你数星星⭐⭐⭐"
+print "性别，男1，女2"
+#类似于用1，2代表男女如何实现？
+sex＝input()
+if sex＝＝1:
