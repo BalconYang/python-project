@@ -17,4 +17,4 @@ day=input()
 if(month==1 and 20＜day＜31)or(month==2 and 1＜day＜18)and sex==1:
   constellation="shuiping nan"
 if……
-print str(name)+"you"+str(month)+str(day)+str(constellations)+",you and xiaofang see bright star togeter!"
+print str(name)+"you"+str(month)+str(day)+str(constellations)+",you and xiaofang see bright star together!"
