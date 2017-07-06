@@ -1,5 +1,5 @@
-#coding＝utf-8
-print"everyone is different,don't care,just for fun!\ntell me your name."
+# -*- coding＝utf-8 -*-
+print"Everyone is different,don't care,just for fun!\nTell me your name."
 name＝input()
 print "sex，na1，nv2"
 #类似于用1，2代表男女如何实现？
