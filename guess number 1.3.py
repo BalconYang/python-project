@@ -1,4 +1,4 @@
-#coding=utf-8
+# -*- coding = utf-8 -*-
 def isEqual(num1,num2):
   if num1＜num2:
     print"too small"
@@ -14,7 +14,7 @@ def isEqual(num1,num2):
 isEqual(1,3)
 isEqual(3,1)
 isEqual(3,3)
-#测试自定义函数
+# 测试自定义函数
 
 from random import randint
 num=randint(1,3)
@@ -25,5 +25,5 @@ while bingo==False:
   bingo=isEqual
   
   
-#tips:定义函数def
+# tips:定义函数def
   
