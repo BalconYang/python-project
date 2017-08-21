@@ -23,5 +23,4 @@ Python练手项目,存储自己练手的python项目
 week1x
 week2o
 week3x
-# 遗留问题
-1. 
+# the end
