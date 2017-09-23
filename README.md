@@ -1,6 +1,6 @@
 # python-project
 Python练手项目,存储自己练手的python项目
-# pycode基本信息
+# py_code基本信息
 1. 系统版本Win xp
 2. python版本2.7
 3. 编辑器pycharm社区版

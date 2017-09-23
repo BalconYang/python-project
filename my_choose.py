@@ -1,4 +1,4 @@
-# -*- coding = utf-8 -*-
+# -*- coding: utf-8 -*-
 import random
 print "if you don't know what to choose\n let me help you"
 n = input("please enter 0 for help \nor\nplease enter 1 to hear yourself.\n> ")
