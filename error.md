@@ -9,6 +9,6 @@
 3. 添加这三行到文件：
 ```
  [user]
-    name = XXX(自己的名称)
-    email = XXXX(邮箱)
+    name = fanggaofeng2017
+    email = fanggaofeng@yahoo.com
 ```

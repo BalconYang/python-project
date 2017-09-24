@@ -1,8 +1,7 @@
-# 实现基本GUI功能
 # -*- coding: utf-8 -*-
 from Tkinter import*
 from ScrolledText import ScrolledText
-
+# 实现基本GUI功能
 root = Tk()
 root.title('hello')
 text = ScrolledText(root, font=("微软雅黑", 10))

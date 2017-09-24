@@ -11,6 +11,15 @@ if n == 0:
     else:
 	    print "dont't try it.\nmaybe you have yourself choose now, \nwhy dont't to face it brave?"
 
-if n == 1:
+    if n == 1:
 	print "good luncky"
+
+
+
+
+
+
+
+
+
 
